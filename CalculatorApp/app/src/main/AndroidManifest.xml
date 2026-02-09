@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BelajarAndroBing">
         <activity
+            android:name=".CloningSteam"
+            android:exported="false" />
+        <activity
+            android:name=".CloningSteamLogin"
+            android:exported="false" />
+        <activity
             android:name=".CalculatorConstraint"
             android:exported="false" />
         <activity
